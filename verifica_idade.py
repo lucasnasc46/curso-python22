@@ -1,3 +1,5 @@
+#Programa que verica a mioridade a partir do ano de nascimento
+
 idade = int(input("digite seu ano de nascimento"))
 
 cal = 2022-idade
